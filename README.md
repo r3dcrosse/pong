@@ -4,7 +4,7 @@ Pong is a simple game of 1-player pong.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the game:
 
 ![Pong demo](pongDemo_v1.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
